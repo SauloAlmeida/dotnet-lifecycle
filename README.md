@@ -1,4 +1,4 @@
-# .NET 6 + (CLASS - RECORD - STRUCT)
+# .NET 6 + (LIFETIME: SCOPED, TRANSIENT, SINGLETON)
 
 A simple project to study the application lifetime.
 
